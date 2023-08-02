@@ -14,3 +14,8 @@ MobSF Node Plugin (which you're currently reading 😎) is developed to ease the
 
 * Static Analysis Report Generation
 * Export Static Analysis Report
+
+## Contributions
+
+Please feel free to fork the repo, make your updates and add PR to main branch.
+
