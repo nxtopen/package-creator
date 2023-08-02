@@ -8,4 +8,9 @@ Mobile Security Framework (MobSF) is an automated, all-in-one mobile application
 
 ## About MobSF Node Plugin
 
-With the great api which this amazing tool provides developers can use the tool integrateed with various scenarios. This NPM Plugin allows the programs to interact and make use of APIs easily.
+MobSF Node Plugin (which you're currently reading 😎) is developed to ease the process and to perform some of the core actions. See Features section for more.
+
+## FEATURES
+
+* Static Analysis Report Generation
+* Export Static Analysis Report
