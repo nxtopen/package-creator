@@ -2,7 +2,8 @@ name: Node.js Package
 
 on:
   push:
-    branches: main
+    branches:
+      - main
 
 jobs:
   build:
@@ -24,6 +25,9 @@ jobs:
           node-version: 16
           registry-url: https://registry.npmjs.org/
       - run: npm i
-      - run: npm publish
+      - name: Bump Version and Publish
+        run: |
+          npx standard-version
+          npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
