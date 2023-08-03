@@ -1,6 +1,6 @@
 {
   "name": "mobsf",
-  "version": "1.0.0-1",
+  "version": "1.0.1",
   "description": "MobSF API for NodeJS",
   "main": "index.js",
   "scripts": {
