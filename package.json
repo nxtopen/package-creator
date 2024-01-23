@@ -1,7 +1,7 @@
 {
-  "name": "mobsf",
-  "version": "1.0.1",
-  "description": "MobSF API for NodeJS",
+  "name": "ezhuth",
+  "version": "1.0.0-pre1",
+  "description": "Malayalam Programming With NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
