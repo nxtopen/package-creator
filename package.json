@@ -1,7 +1,7 @@
 {
-  "name": "npmui",
+  "name": "geminiapi",
   "version": "0.0.1",
-  "description": "Version Checker For NPM",
+  "description": "API Client For Google Gemini",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
