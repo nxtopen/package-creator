@@ -1,5 +1,5 @@
 {
-  "name": "npmver",
+  "name": "npmui",
   "version": "0.0.1",
   "description": "Version Checker For NPM",
   "main": "index.js",
