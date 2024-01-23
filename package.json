@@ -1,7 +1,7 @@
 {
-  "name": "ezhuth",
-  "version": "1.0.0-pre1",
-  "description": "Malayalam Programming With NodeJS",
+  "name": "npmver",
+  "version": "0.0.1",
+  "description": "Version Checker For NPM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
