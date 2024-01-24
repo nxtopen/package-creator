@@ -1,7 +1,7 @@
 {
-  "name": "noembed",
+  "name": "speedcli",
   "version": "0.0.1",
-  "description": "Noembed — oEmbed everything.",
+  "description": "Continuous Network Speed Test on CLI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
