@@ -1,7 +1,7 @@
 {
-  "name": "gemini-ui",
+  "name": "oyoutube",
   "version": "0.0.1",
-  "description": "UI For Google Gemini",
+  "description": "FREE Youtube API without API Key",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
