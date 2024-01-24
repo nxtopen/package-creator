@@ -1,5 +1,5 @@
 {
-  "name": "speedly",
+  "name": "netmonit",
   "version": "0.0.1",
   "description": "Continuous Network Speed Test on CLI",
   "main": "index.js",
