@@ -1,7 +1,7 @@
 {
-  "name": "gilzonme",
+  "name": "distman",
   "version": "0.0.1",
-  "description": "This plugin is under development!",
+  "description": "Calculate and convert distance between two locations",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
