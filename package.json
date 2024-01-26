@@ -1,5 +1,5 @@
 {
-  "name": "distman",
+  "name": "geolook",
   "version": "0.0.1",
   "description": "Calculate and convert distance between two locations",
   "main": "index.js",
