@@ -1,7 +1,7 @@
 {
-  "name": "npmcompare",
+  "name": "npcompare",
   "version": "0.0.1",
-  "description": "Easy to use token management system",
+  "description": "This plugin is currently in development",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
