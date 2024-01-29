@@ -1,7 +1,7 @@
 {
-  "name": "geolook",
+  "name": "nosint",
   "version": "0.0.1",
-  "description": "Calculate and convert distance between two locations",
+  "description": "Open-source Intelligence Tool & Aggregator with NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
