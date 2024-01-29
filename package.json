@@ -1,5 +1,5 @@
 {
-  "name": "tokn",
+  "name": "npmcompare",
   "version": "0.0.1",
   "description": "Easy to use token management system",
   "main": "index.js",
