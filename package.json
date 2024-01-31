@@ -1,5 +1,5 @@
 {
-  "name": "validpro",
+  "name": "@noembed/next",
   "version": "0.0.1",
   "description": "This plugin is currently in development",
   "main": "index.js",
