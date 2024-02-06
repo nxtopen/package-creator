@@ -1,6 +1,6 @@
 {
   "name": "qr64",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Generate qrcode as base64 encoded.",
   "main": "index.js",
   "scripts": {
