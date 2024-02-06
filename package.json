@@ -1,7 +1,7 @@
 {
-  "name": "@nxto/tlds",
+  "name": "qr64",
   "version": "0.0.1",
-  "description": "List of top-level domains and functions for its validation",
+  "description": "Generate qrcode as base64 encoded.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
