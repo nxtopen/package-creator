@@ -1,5 +1,5 @@
 {
-  "name": "@nxto/countries",
+  "name": "restcountries",
   "version": "0.0.0",
   "description": "List of countries and information",
   "main": "index.js",
