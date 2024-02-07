@@ -1,5 +1,5 @@
 {
-  "name": "data.gov.in",
+  "name": "nlytics",
   "version": "0.0.0",
   "description": "Data.gov.in wrapper for NodeJS",
   "main": "index.js",
