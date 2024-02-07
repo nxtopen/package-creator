@@ -1,7 +1,7 @@
 {
-  "name": "nlytics",
+  "name": "@nxto/countries",
   "version": "0.0.0",
-  "description": "Data.gov.in wrapper for NodeJS",
+  "description": "List of countries and information",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
