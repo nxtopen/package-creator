@@ -1,5 +1,5 @@
 {
-  "name": "datagovin",
+  "name": "data.gov.in",
   "version": "0.0.0",
   "description": "Data.gov.in wrapper for NodeJS",
   "main": "index.js",
