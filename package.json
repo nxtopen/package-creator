@@ -1,7 +1,7 @@
 {
-  "name": "nxtcms",
+  "name": "create-nxtcms",
   "version": "0.0.0",
-  "description": "NxtCMS",
+  "description": "Create NXTCMS quickly",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
