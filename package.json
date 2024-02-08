@@ -1,7 +1,7 @@
 {
-  "name": "restcountries",
+  "name": "@nxto/oembed",
   "version": "0.0.0",
-  "description": "List of countries and information",
+  "description": "oEmbed plugin with more sources",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
