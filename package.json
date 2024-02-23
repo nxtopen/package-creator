@@ -1,7 +1,7 @@
 {
-  "name": "@nextjs/editor",
+  "name": "nexteditor",
   "version": "0.0.0",
-  "description": "Create NXTCMS quickly",
+  "description": "HTML Ediitor for NextJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
