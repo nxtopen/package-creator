@@ -1,5 +1,5 @@
 {
-  "name": "dockerit",
+  "name": "npscan",
   "version": "0.0.0",
   "description": "Dockerize a nodejs project easily",
   "main": "index.js",
