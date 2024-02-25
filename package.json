@@ -1,7 +1,7 @@
 {
-  "name": "nextedit",
+  "name": "nlyze",
   "version": "0.0.0",
-  "description": "HTML Ediitor for NextJS",
+  "description": "Scan node project and generate package reports",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
