@@ -1,7 +1,7 @@
 {
-  "name": "packvalid",
+  "name": "nextresume",
   "version": "0.0.0",
-  "description": "To Be Updated...",
+  "description": "Low-code resume component for NextJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
