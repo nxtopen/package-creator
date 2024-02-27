@@ -1,7 +1,7 @@
 {
-  "name": "docku",
+  "name": "regexpro",
   "version": "0.0.0",
-  "description": "Interactive dockerizing CLI Tool",
+  "description": "Collection of useful regular expressions and validations",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
