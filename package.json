@@ -1,7 +1,7 @@
 {
-  "name": "@strapi-community/docker",
+  "name": "docku",
   "version": "0.0.0",
-  "description": "Low-code resume component for NextJS",
+  "description": "Interactive dockerizing CLI Tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
