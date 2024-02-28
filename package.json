@@ -1,5 +1,5 @@
 {
-  "name": "websf",
+  "name": "@websf/ui",
   "version": "0.0.0",
   "description": "Website Scanning Framework",
   "main": "index.js",
