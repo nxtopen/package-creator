@@ -1,7 +1,7 @@
 {
-  "name": "nextful",
+  "name": "yembed",
   "version": "0.0.0",
-  "description": "NextJS Based Simple Content Management System",
+  "description": "oEmbed based video embedding plugin for nextjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
