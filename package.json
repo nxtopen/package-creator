@@ -1,7 +1,7 @@
 {
-  "name": "ez-estimate",
+  "name": "validcard",
   "version": "0.0.0",
-  "description": "Easily handle estimation in your websites",
+  "description": "Card validation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
