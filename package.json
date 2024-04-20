@@ -1,7 +1,7 @@
 {
-  "name": "instareel",
+  "name": "ollama",
   "version": "0.0.0",
-  "description": "Download reel from Instagram",
+  "description": "ollama nodejs client",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
