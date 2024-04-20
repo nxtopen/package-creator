@@ -1,5 +1,5 @@
 {
-  "name": "ollama-client",
+  "name": "ollama-server",
   "version": "0.0.0",
   "description": "ollama nodejs client",
   "main": "index.js",
