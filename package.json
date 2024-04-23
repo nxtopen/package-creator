@@ -1,7 +1,7 @@
 {
-  "name": "ollama-server",
+  "name": "llama-client",
   "version": "0.0.0",
-  "description": "ollama nodejs client",
+  "description": "llama client",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
