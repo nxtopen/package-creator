@@ -1,7 +1,7 @@
 {
-  "name": "llama-client",
+  "name": "nextcomponents",
   "version": "0.0.0",
-  "description": "llama client",
+  "description": "nextcomponents",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
