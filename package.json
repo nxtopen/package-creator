@@ -1,7 +1,7 @@
 {
-  "name": "opencd",
+  "name": "instapi",
   "version": "0.0.0",
-  "description": "nextel",
+  "description": "",
   "main": "index.js",
   "scripts": {
   },
